@@ -1,0 +1,8 @@
+{
+    "viewSetupHandlers": {
+        "record/search": [
+            "__APPEND__",
+            "custom:case-live-search-handler"
+        ]
+    }
+}

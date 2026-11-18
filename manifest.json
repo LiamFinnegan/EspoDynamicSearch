@@ -1,0 +1,10 @@
+{
+    "name": "Live Filter-As-You-Type Search",
+    "version": "1.0.4",
+    "acceptableVersions": [
+        ">=9.0.0"
+    ],
+    "releaseDate": "2026-11-16",
+    "author": "Custom Admin",
+    "description": "Enables dynamic search"
+}
